@@ -1,3 +1,9 @@
+
+<img src="https://media.giphy.com/media/your-gif-link.gif" width="300"/>
+
+
+
+
 # 👋 Hey there, I'm Weeb!
 
 Welcome to my GitHub profile! I'm just getting started on my dev journey, and I'm here to learn, build, and share cool stuff along the way.
