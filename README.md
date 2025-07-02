@@ -1,5 +1,13 @@
-<img src="https://github.com/dodotskiees1/dodotskiees1/blob/main/giphy.gif?raw=true" width="400"/>
 
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/1qErVv5GVUac8uqBJU/giphy.gif" width="400" alt="Coding GIF"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Ivan Carl Ubanan</h1>
+<h3 align="center">Back-End Developer | Passionate about building scalable, secure, and efficient server-side systems 🚀</h3>
+
+---
 # 👋 Hey there, I'm Weeb!
 
 Welcome to my GitHub profile! I'm just getting started on my dev journey, and I'm here to learn, build, and share cool stuff along the way.
