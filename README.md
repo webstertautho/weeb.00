@@ -1,8 +1,4 @@
-
-<img src="https://media.giphy.com/media/your-gif-link.gif" width="300"/>
-
-
-
+<img src="https://github.com/dodotskiees1/dodotskiees1/blob/main/giphy.gif?raw=true" width="400"/>
 
 # 👋 Hey there, I'm Weeb!
 
